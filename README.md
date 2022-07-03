@@ -16,3 +16,6 @@ Seminars for A/B-test theory with advanced math statistics in english.
 
 
 ## Sources
+
+- https://github.com/FUlyankin/matstat-AB
+- https://netflixtechblog.com/what-is-an-a-b-test-b08cc1b57962
