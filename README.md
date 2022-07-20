@@ -23,4 +23,6 @@ Seminars for A/B-test theory with advanced math statistics in english.
 ## Sources
 
 - https://github.com/FUlyankin/matstat-AB
+- https://www.youtube.com/watch?v=S3WAjnBC6CI&list=PLQJ7ptkRY-xbHLLI66KdscKp_FJt0FsIi
 - https://netflixtechblog.medium.com/
+- https://towardsdatascience.com/multiple-hypothesis-testing-correction-for-data-scientist-46d3a3d1611d
